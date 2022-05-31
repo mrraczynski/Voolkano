@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 4fe7bd2ac1cd5e14bb7e7a0b0027e925
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh031
+    100004: Mesh032
+    100006: Mesh033
+    100008: Mesh034
+    100010: Mesh035
+    100012: Mesh036
+    100014: Mesh037
+    100016: Mesh038
+    100018: RockGrey002
+    100020: RockGrey003
+    100022: RockGrey005
+    100024: RockGrey006
+    100026: RockGrey008
+    100028: RockGrey009
+    100030: RockGrey011
+    100032: RockGrey012
+    100034: RockGrey014
+    100036: RockGrey015
+    100038: RockGrey016
+    100040: RockGrey017
+    100042: RockGrey019
+    100044: RockGrey021
+    100046: RockGrey022
+    100048: RockGrey023
+    100050: RockGrey1
+    400000: //RootNode
+    400002: Mesh031
+    400004: Mesh032
+    400006: Mesh033
+    400008: Mesh034
+    400010: Mesh035
+    400012: Mesh036
+    400014: Mesh037
+    400016: Mesh038
+    400018: RockGrey002
+    400020: RockGrey003
+    400022: RockGrey005
+    400024: RockGrey006
+    400026: RockGrey008
+    400028: RockGrey009
+    400030: RockGrey011
+    400032: RockGrey012
+    400034: RockGrey014
+    400036: RockGrey015
+    400038: RockGrey016
+    400040: RockGrey017
+    400042: RockGrey019
+    400044: RockGrey021
+    400046: RockGrey022
+    400048: RockGrey023
+    400050: RockGrey1
+    2100000: MAT_DESERT1
+    2100002: Color_C07
+    2300000: Mesh031
+    2300002: Mesh032
+    2300004: Mesh033
+    2300006: Mesh034
+    2300008: Mesh035
+    2300010: Mesh036
+    2300012: Mesh037
+    2300014: Mesh038
+    2300016: RockGrey002
+    2300018: RockGrey003
+    2300020: RockGrey005
+    2300022: RockGrey006
+    2300024: RockGrey008
+    2300026: RockGrey009
+    2300028: RockGrey011
+    2300030: RockGrey012
+    2300032: RockGrey014
+    2300034: RockGrey015
+    2300036: RockGrey016
+    2300038: RockGrey017
+    2300040: RockGrey019
+    2300042: RockGrey021
+    2300044: RockGrey022
+    2300046: RockGrey023
+    2300048: RockGrey1
+    3300000: Mesh031
+    3300002: Mesh032
+    3300004: Mesh033
+    3300006: Mesh034
+    3300008: Mesh035
+    3300010: Mesh036
+    3300012: Mesh037
+    3300014: Mesh038
+    3300016: RockGrey002
+    3300018: RockGrey003
+    3300020: RockGrey005
+    3300022: RockGrey006
+    3300024: RockGrey008
+    3300026: RockGrey009
+    3300028: RockGrey011
+    3300030: RockGrey012
+    3300032: RockGrey014
+    3300034: RockGrey015
+    3300036: RockGrey016
+    3300038: RockGrey017
+    3300040: RockGrey019
+    3300042: RockGrey021
+    3300044: RockGrey022
+    3300046: RockGrey023
+    3300048: RockGrey1
+    4300000: RockGrey1
+    4300002: RockGrey002
+    4300004: RockGrey003
+    4300006: RockGrey005
+    4300008: Mesh037
+    4300010: Mesh036
+    4300012: RockGrey009
+    4300014: RockGrey011
+    4300016: RockGrey012
+    4300018: RockGrey014
+    4300020: RockGrey015
+    4300022: RockGrey016
+    4300024: RockGrey017
+    4300026: RockGrey019
+    4300028: RockGrey021
+    4300030: RockGrey022
+    4300032: RockGrey023
+    4300034: Mesh035
+    4300036: Mesh031
+    4300038: Mesh032
+    4300040: Mesh033
+    4300042: Mesh034
+    4300044: Mesh038
+    4300046: RockGrey006
+    4300048: RockGrey008
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
